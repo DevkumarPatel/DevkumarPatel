@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<a href="https://app.daily.dev/dev2804"><img src="https://api.daily.dev/devcards/v2/1Ik3EGVrXdawQmyFwjR5b.png?r=f6z&type=wide" width="652" alt="Dev Patel's Dev Card"/></a>
 
 
 
